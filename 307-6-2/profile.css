@@ -1,0 +1,12 @@
+.ConLine {
+  display: flex;
+  flex-flow: wrap;
+  width: 100%;
+}
+.card {
+  width: 25%;
+}
+.OPProgressBars, .Connect {
+  width: 50%;
+}
+.table-responsive {justify-content: center; align-content: center; text-align: center;}
